@@ -1,4 +1,6 @@
 # NASA C-MAPSS Predictive Maintenance
+![NASA Logo](nasa-logo.png)
+
 **[Full Code & Analysis](./NASA_C-MAPSS_Predictive_Modeling_Project.ipynb)**
 
 
