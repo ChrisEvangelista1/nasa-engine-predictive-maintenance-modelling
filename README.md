@@ -1,5 +1,5 @@
 # NASA C-MAPSS Predictive Maintenance
-![NASA Logo](nasa-logo.png)
+<p align="center"><img src="nasa-logo.png" width="150"></p>
 
 **[Full Code & Analysis](./NASA_C-MAPSS_Predictive_Modeling_Project.ipynb)**
 
