@@ -1,0 +1,15 @@
+{
+  "regression_test_metrics": {
+    "mae": 19.252750396728516,
+    "rmse": 25.745965437872496,
+    "r2": 0.6161524057388306
+  },
+  "classification_test_metrics": {
+    "accuracy": 0.94,
+    "precision": 0.8064516129032258,
+    "recall": 1.0,
+    "f1": 0.8928571428571429,
+    "roc_auc": 0.9904,
+    "pr_auc": 0.9705725004578001
+  }
+}
